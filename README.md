@@ -31,7 +31,7 @@ Here are some highlights of my work:
 - **[Project 1: Machine/Deep Learning with Large Language Models (Honours Project)](https://github.com/c-stev/CSI-4900)**  
   Used Meta's LLaMA models to train on real and fake news articles across several categories in an attempt to predict their authenticity based on their content or any potential underlying patterns.
   
-- **[Project 2: Analyzing Financial Sector Trends](https://github.com/c-stev/CSI-4142-Project)**
+- **[Project 2: Analyzing Financial Sector Trends](https://github.com/c-stev/CSI-4142-Project)**  
   Leveraged existing APIs to access decades worth of Yahoo! Fianance data to analyze S&P 500 stock trends and trained classification models in an attempt to predict market behaviour.
 
 - **[Project 3: Portfolio Website](https://github.com/c-stev/csi-3140-project)**  

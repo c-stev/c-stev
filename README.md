@@ -34,7 +34,7 @@ Here are some highlights of my work:
 - **[Project 2: Analyzing Financial Sector Trends](https://github.com/c-stev/CSI-4142-Project)**  
   Leveraged existing APIs to access decades worth of Yahoo! Fianance data to analyze S&P 500 stock trends and trained classification models in an attempt to predict market behaviour.
 
-- **[Project 3: Portfolio Website](https://github.com/c-stev/csi-3140-project)**  
+- **[Project 3: AI Text Summarizer](https://github.com/c-stev/csi-3140-project)**  
     Developed a web-based SaaS application using Flask. The tool allows users to upload text-based files (e.g., PDFs) and employs AI-powered tools to generate summaries which reduce the word count while preserving key information.  
 
 
